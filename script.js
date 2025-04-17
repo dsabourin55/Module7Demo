@@ -1,1 +1,1 @@
-alert("Hello World!");
+//Deleted alert
